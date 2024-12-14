@@ -4,7 +4,9 @@
 **Course:** Whitman College, CS/MATH - 215 Intro to Data Science  
 **Instructor:** Albert Schueller  
 [Click here to open the Colab worksheet](https://colab.research.google.com/drive/1c2FPResnkg_V9Ull1de4L-d6xcJqO55e?usp=sharing)
+
 ---
+
 ## **Abstarct**  
 This research project explores the interplay between presidential administrations, congressional control, economic policies, and the performance of the S&P 500 from 1993 to 2024. Through a comprehensive analysis integrating S&P 500 data with key economic events, policy changes, and GDP growth, we investigate how different political regimes influence market dynamics. Our hypothesis posits that Democratic presidencies often correlate with enhanced market performance, asserting that GDP growth significantly forecasts stock market trends and that election years amplify market volatility due to political transitions. By dissecting the performance across various industries, our findings reveal that sectors such as technology, healthcare, and consumer discretionary generally flourish under Democratic policies promoting innovation and consumer protection, whereas energy and financials sectors tend to perform better under Republican administrations favoring deregulation. The research highlights the necessity for investors to adopt diversified strategies to navigate the sector-specific volatility and the profound impact political and economic climates have on market performance.
 
