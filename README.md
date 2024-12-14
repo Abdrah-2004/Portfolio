@@ -122,7 +122,7 @@ graph right here interaqcrive and
 </head>
 <body>
     <h1>Interactive S&P 500 Performance Plot</h1>
-    <iframe src="https://raw.githubusercontent.com/Abdrah-2004/Portfolio/main/_interactive_sp500_plot.html" width="100%" height="600px"></iframe>
+    <iframe src="https://raw.githubusercontent.com/Abdrah-2004/Portfolio/main/Graph50.html" width="100%" height="600px"></iframe>
 </body>
 </html>
 
