@@ -3,6 +3,8 @@
 **Date:** 12/7/2024  
 **Course:** Whitman College, CS/MATH - 215 Intro to Data Science  
 **Instructor:** Albert Schueller  
+[Click here to open the Colab worksheet](https://colab.research.google.com/drive/1c2FPResnkg_V9Ull1de4L-d6xcJqO55e?usp=sharing)
+
 
 ---
 
