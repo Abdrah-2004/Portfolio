@@ -45,6 +45,9 @@ The overarching research question is:
 #### **Analysis Approach**  
 To address this question, S&P 500 data was merged with timelines of key economic policy events, with specific attention to major policy dates. A time-series analysis was conducted to assess the pre- and post-policy impact on stock prices. Furthermore, the data was segmented by presidential terms to analyze differences between Democratic and Republican administrations.
 
+![**Figure 1:** S&P 500 performance and GDP growth trends under Democratic (blue) and Republican (red) administrations.
+](https://github.com/Abdrah-2004/Portfolio/blob/main/Graph1.png)
+
 #### **Findings**  
 Observations from the graph and data analysis indicate that the S&P 500 has historically shown robust growth under both Democratic and Republican administrations. However, sharper increases are often seen during Democratic administrations, particularly during periods of economic recovery and strong policy support, such as during the Obama years from 2009 to 2017. This suggests that while the broader economic environment plays a critical role, policy initiatives during Democratic terms have had a positive correlation with market performance.
 
