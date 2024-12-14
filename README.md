@@ -111,6 +111,20 @@ Periods of unified Democratic control over both the White House and Congress hav
 
 #### **Analysis Approach**  
 The performance of the S&P 500 was broken down by sector. Key metrics such as average annual returns, volatility, and drawdowns were calculated for each industry. Time-series analysis was employed to identify periods of relative strength or weakness across sectors, with correlations to macroeconomic indicators explored.
+graph right here interaqcrive and 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive S&P 500 Plot</title>
+</head>
+<body>
+    <h1>Interactive S&P 500 Performance Plot</h1>
+    <iframe src="https://raw.githubusercontent.com/Abdrah-2004/Portfolio/main/_interactive_sp500_plot.html" width="100%" height="600px"></iframe>
+</body>
+</html>
 
 
 
