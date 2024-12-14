@@ -113,26 +113,13 @@ Periods of unified Democratic control over both the White House and Congress hav
 The performance of the S&P 500 was broken down by sector. Key metrics such as average annual returns, volatility, and drawdowns were calculated for each industry. Time-series analysis was employed to identify periods of relative strength or weakness across sectors, with correlations to macroeconomic indicators explored.
 graph right here interaqcrive and 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive S&P 500 Plot</title>
-</head>
-<body>
-    <h1>Interactive S&P 500 Performance Plot</h1>
-    <iframe src="https://raw.githubusercontent.com/Abdrah-2004/Portfolio/main/Graph50.html" width="100%" height="600px"></iframe>
-</body>
-</html>
-
-
+![**Figure 5:** S&P 500 performance by sector under Democratic (blue) and Republican (red) presidencies.
+](https://github.com/Abdrah-2004/Portfolio/blob/main/Graph500.png)
+You can view the interactive graph by clicking the link below:
+[Interactive Graph - View Here](https://abdrah-2004.github.io/Portfolio/Graph50)
 
 #### **Findings**  
 The performance of various S&P 500 sectors demonstrates clear correlations with shifts in political power, illustrating how different industries respond to the policies of Democratic and Republican administrations. During Democratic terms, sectors like technology, healthcare, and consumer discretionary often experience growth, supported by policies that promote innovation, healthcare reform, and consumer protection. Conversely, Republican administrations tend to boost sectors like energy and financials through deregulation and support for traditional energy sources. The analysis underscores the importance of a diversified investment strategy, as it highlights the sector-specific volatility and resilience to economic cycles, which are significantly influenced by political climates. This approach can help investors mitigate risks and capitalize on growth opportunities by aligning their portfolios with prevailing and anticipated policy environments.
-
-![S&P 500 Performance by Sector](https://drive.google.com/file/d/1dE-EFTQ-LQmr_fC5z-JjjFfgpjDhZtKY/view?usp=sharing)  
-**Figure 5:** S&P 500 performance by sector under Democratic (blue) and Republican (red) presidencies.
 
 ---
 
