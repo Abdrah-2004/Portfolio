@@ -23,10 +23,14 @@
 ---
 
 ## **Introduction**  
-This project investigates the relationship between presidential administrations, economic policies, and S&P 500 performance, covering the period from 1992 to 2024. By examining the influence of different political regimes, including control of the House and Senate, this study analyzes how these factors affect the stock market. Key economic indicators such as GDP growth, election cycles, and political control over Congress are explored in detail.
+This project delves into the correlation between presidential administrations, economic policies, and S&P 500 performance, using data spanning from 1992 to 2024. Our analysis explores how different political regimes, including the control of the House and Senate, impact the stock market’s behavior. We examine key economic indicators such as GDP growth, election cycles, and control over Congress, seeking to understand their combined effects on the performance of the S&P 500. 
+
+### **Hypothesis**  
+Our hypothesis suggests that Democratic presidencies are correlated with stronger S&P 500 performance, and that GDP growth is a leading indicator of stock market returns. Moreover, we hypothesize that market volatility tends to increase during election years, particularly in contexts where there is a shift in political power.
 
 The overarching research question is:  
 **How do political factors, such as presidential control, congressional majority, and economic growth, relate to market trends, particularly the S&P 500?**
+
 
 ---
 
@@ -38,7 +42,7 @@ The overarching research question is:
 To address this question, S&P 500 data was merged with timelines of key economic policy events, with specific attention to major policy dates. A time-series analysis was conducted to assess the pre- and post-policy impact on stock prices. Furthermore, the data was segmented by presidential terms to analyze differences between Democratic and Republican administrations.
 
 #### **Findings**  
-The S&P 500 has shown strong growth under both Democratic and Republican administrations. However, Democratic administrations, particularly during periods of economic recovery, exhibited sharper growth. For instance, the Obama administration (2009–2017) saw substantial market expansion, likely due to stimulus packages, recovery efforts, and business-friendly policy initiatives.  
+Observations from the graph and data analysis indicate that the S&P 500 has historically shown robust growth under both Democratic and Republican administrations. However, sharper increases are often seen during Democratic administrations, particularly during periods of economic recovery and strong policy support, such as during the Obama years from 2009 to 2017. This suggests that while the broader economic environment plays a critical role, policy initiatives during Democratic terms have had a positive correlation with market performance.
 
 ![S&P 500 Performance and GDP Trends](https://drive.google.com/file/d/1GSg1zKzPDAOznfS99_efjgGyUGI2pqBT/view?usp=drive_link)  
 **Figure 1:** S&P 500 performance and GDP growth trends under Democratic (blue) and Republican (red) administrations.
@@ -52,7 +56,7 @@ The S&P 500 has shown strong growth under both Democratic and Republican adminis
 To explore this relationship, GDP growth rate data was aggregated with S&P 500 performance. A lagged correlation analysis was conducted to determine whether GDP growth preceded or followed stock market returns. Regression modeling was also applied to quantify the strength of the correlation.
 
 #### **Findings**  
-The analysis reveals a positive correlation between GDP growth and S&P 500 returns. In particular, during years of high GDP growth (e.g., the late 1990s and mid-2010s), the S&P 500 experienced significant gains. This finding aligns with the economic theory that a growing economy drives corporate earnings, which in turn boosts stock market performance.  
+The graph and datasets indicate a positive correlation between GDP growth and S&P 500 returns, aligning with economic theory that a growing economy boosts corporate earnings and thereby stock prices. Particularly in years of high GDP growth, such as the late 1990s and mid-2010s, the S&P 500 also significantly increased. This finding with Regression analysis would likely confirm the economic theory that a growing economy drives corporate earnings, which in turn boosts stock market performance.  
 
 ![S&P 500 vs GDP Growth](https://drive.google.com/file/d/1gry-ZZnNPumTI3QXLGhXdfklqlynxWbW/view?usp=sharing)  
 **Figure 2:** Correlation between S&P 500 performance and GDP growth over time.
@@ -66,8 +70,7 @@ The analysis reveals a positive correlation between GDP growth and S&P 500 retur
 To assess the impact of presidential election cycles on market volatility, historical volatility metrics for the S&P 500 were calculated for both election and non-election years. Statistical tests were conducted to evaluate whether election years exhibit significantly more volatility and whether this varies between political parties.
 
 #### **Findings**  
-The data indicates increased market volatility during presidential election years, particularly in the 2000, 2008, and 2016 elections. This suggests that elections introduce a degree of uncertainty, influencing investor behavior regardless of the party in power.  
-
+The volatility graphs reveal increased market volatility during presidential election years, reflecting the market's sensitivity to political uncertainty. This trend holds across both Democratic and Republican election cycles, with heightened volatility evident in election years such as 2000, 2008, and 2016. This pattern suggests that elections introduce a degree of uncertainty that affects market behavior, regardless of the party.
 ![Volatility Trends During Election Cycles](https://drive.google.com/file/d/1kdNkO8ddQNSOxSJqQjgnR4o_ooLjk_iK/view?usp=sharing)  
 **Figure 3:** Volatility trends of the S&P 500 during election years (Democratic in blue, Republican in red).
 
@@ -88,13 +91,13 @@ Periods of unified Democratic control over both the White House and Congress hav
 ---
 
 ### **Research Question 5: S&P 500 Performance by Industry**  
-**How has the performance of the S&P 500 varied across different industries, and what trends or patterns can be identified in sector-specific growth, volatility, and resilience to economic cycles?**
+**How do shifts in political power in the White House influence the performance of different industries within the S&P 500, and what are the notable trends and patterns in sector-specific growth, volatility, and resilience throughout various economic cycles?**
 
 #### **Analysis Approach**  
 The performance of the S&P 500 was broken down by sector. Key metrics such as average annual returns, volatility, and drawdowns were calculated for each industry. Time-series analysis was employed to identify periods of relative strength or weakness across sectors, with correlations to macroeconomic indicators explored.
 
 #### **Findings**  
-Sector-specific performance has varied significantly over time. The Technology sector, for instance, has experienced substantial growth during the dot-com bubble and the mid-2010s tech boom. Conversely, the Energy sector has shown more volatility due to fluctuations in oil prices and changes in energy policy. These findings highlight the importance of diversifying investments across sectors to mitigate risks related to macroeconomic trends and policy shifts.  
+The performance of various S&P 500 sectors demonstrates clear correlations with shifts in political power, illustrating how different industries respond to the policies of Democratic and Republican administrations. During Democratic terms, sectors like technology, healthcare, and consumer discretionary often experience growth, supported by policies that promote innovation, healthcare reform, and consumer protection. Conversely, Republican administrations tend to boost sectors like energy and financials through deregulation and support for traditional energy sources. The analysis underscores the importance of a diversified investment strategy, as it highlights the sector-specific volatility and resilience to economic cycles, which are significantly influenced by political climates. This approach can help investors mitigate risks and capitalize on growth opportunities by aligning their portfolios with prevailing and anticipated policy environments.
 
 ![S&P 500 Performance by Sector](https://drive.google.com/file/d/1dE-EFTQ-LQmr_fC5z-JjjFfgpjDhZtKY/view?usp=sharing)  
 **Figure 5:** S&P 500 performance by sector under Democratic (blue) and Republican (red) presidencies.
