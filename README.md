@@ -45,7 +45,6 @@ The overarching research question is:
 #### **Analysis Approach**  
 To address this question, S&P 500 data was merged with timelines of key economic policy events, with specific attention to major policy dates. A time-series analysis was conducted to assess the pre- and post-policy impact on stock prices. Furthermore, the data was segmented by presidential terms to analyze differences between Democratic and Republican administrations.
 
-<img src="https://abdrah-2004.github.io/Portfolio/Portfolio/blob/main/Graph1.png" alt="Image Description">
 ![**Figure 1:** S&P 500 performance and GDP growth trends under Democratic (blue) and Republican (red) administrations.
 ](https://github.com/Abdrah-2004/Portfolio/blob/main/Graph1.png)
 **Figure 1:** S&P 500 performance and GDP growth trends under Democratic (blue) and Republican (red) administrations.
