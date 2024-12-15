@@ -75,7 +75,7 @@ The datasets indicate a positive correlation between GDP growth and S&P 500 retu
 #### **Analysis Approach**  
 To assess the impact of presidential election cycles on market volatility, historical volatility metrics for the S&P 500 were calculated for both election and non-election years. Statistical tests were conducted to evaluate whether election years exhibit significantly more volatility and whether this varies between political parties.
 
- <iframe src="Graph%2030.html" width="2000%" height="12000" frameborder="0"></iframe>
+ <iframe src="Graph%2030.html" width="200%" height="1200" frameborder="0"></iframe>
 **Figure 3.1:** Volatility trends of the S&P 500 Over years (Democratic in blue, Republican in red).
 
  <iframe src="Graph%2031.html" width="100%" height="600" frameborder="0"></iframe>
