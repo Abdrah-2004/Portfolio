@@ -45,7 +45,7 @@ The overarching research question is:
 #### **Analysis Approach**  
 To address this question, S&P 500 data was merged with timelines of key economic policy events, with specific attention to major policy dates. A time-series analysis was conducted to assess the pre- and post-policy impact on stock prices. Furthermore, the data was segmented by presidential terms to analyze differences between Democratic and Republican administrations.
 
- <iframe src="Graph10.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Graph%2010.html" width="100%" height="600" frameborder="0"></iframe>
 **Figure 1:** S&P 500 performance and GDP growth trends under Democratic (blue) and Republican (red) administrations.
 
 #### **Findings**  
@@ -75,10 +75,10 @@ The datasets indicate a positive correlation between GDP growth and S&P 500 retu
 #### **Analysis Approach**  
 To assess the impact of presidential election cycles on market volatility, historical volatility metrics for the S&P 500 were calculated for both election and non-election years. Statistical tests were conducted to evaluate whether election years exhibit significantly more volatility and whether this varies between political parties.
 
- <iframe src="Graph30.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Graph%2030.html" width="100%" height="600" frameborder="0"></iframe>
 **Figure 3.1:** Volatility trends of the S&P 500 Over years (Democratic in blue, Republican in red).
 
- <iframe src="Graph31.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="%2031.html" width="100%" height="600" frameborder="0"></iframe>
 **Figure 3.2:** Volatility trends of the S&P 500 during election years (Democratic in blue, Republican in red).
 
 #### **Findings**  
@@ -92,7 +92,7 @@ The volatility graphs reveal increased market volatility during presidential ele
 #### **Analysis Approach**  
 Historical data on S&P 500 performance was analyzed under various combinations of political control (e.g., Democratic White House and Congress, Republican control, or divided government). Regression models were applied to identify any relationships between these political configurations and market performance.
 
- <iframe src="Graph40.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Graph%2040.html" width="100%" height="600" frameborder="0"></iframe>
 **Figure 4:** S&P 500 performance under different political control scenarios.
 
 #### **Findings**  
