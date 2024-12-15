@@ -118,6 +118,8 @@ graph right here interaqcrive and
 You can view the interactive graph by clicking the link below:
 [Interactive Graph - View Here](https://abdrah-2004.github.io/Portfolio/Graph50)
 
+ <iframe src="Graph50.html" width="100%" height="600" frameborder="0"></iframe>
+
 #### **Findings**  
 The performance of various S&P 500 sectors demonstrates clear correlations with shifts in political power, illustrating how different industries respond to the policies of Democratic and Republican administrations. During Democratic terms, sectors like technology, healthcare, and consumer discretionary often experience growth, supported by policies that promote innovation, healthcare reform, and consumer protection. Conversely, Republican administrations tend to boost sectors like energy and financials through deregulation and support for traditional energy sources. The analysis underscores the importance of a diversified investment strategy, as it highlights the sector-specific volatility and resilience to economic cycles, which are significantly influenced by political climates. This approach can help investors mitigate risks and capitalize on growth opportunities by aligning their portfolios with prevailing and anticipated policy environments.
 
