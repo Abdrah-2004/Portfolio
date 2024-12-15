@@ -78,7 +78,7 @@ To assess the impact of presidential election cycles on market volatility, histo
  <iframe src="Graph%2030.html" width="2000%" height="12000" frameborder="0"></iframe>
 **Figure 3.1:** Volatility trends of the S&P 500 Over years (Democratic in blue, Republican in red).
 
- <iframe src="%Graph%2031.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Graph%2031.html" width="100%" height="600" frameborder="0"></iframe>
 **Figure 3.2:** Volatility trends of the S&P 500 during election years (Democratic in blue, Republican in red).
 
 #### **Findings**  
